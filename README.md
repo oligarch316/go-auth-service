@@ -1,3 +1,3 @@
-# Auth Proxy
+# Auth Service
 
 TODO
