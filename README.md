@@ -1,3 +1,3 @@
-# Auth Service
+# Golang Auth Service
 
 TODO
